@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://The-W0rld.github.io</id>
+    <title>本体是呆毛！</title>
+    <updated>2022-04-16T10:37:33.932Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://The-W0rld.github.io"/>
+    <link rel="self" href="http://The-W0rld.github.io/atom.xml"/>
+    <subtitle>珍惜现有的一切，学习改变命运</subtitle>
+    <logo>http://The-W0rld.github.io/images/avatar.png</logo>
+    <icon>http://The-W0rld.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 本体是呆毛！</rights>
+    <entry>
+        <title type="html"><![CDATA[sete]]></title>
+        <id>http://The-W0rld.github.io/post/sete/</id>
+        <link href="http://The-W0rld.github.io/post/sete/">
+        </link>
+        <updated>2021-12-07T09:11:48.000Z</updated>
+        <content type="html"><![CDATA[<p>asdf</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>http://The-W0rld.github.io/post/test/</id>
+        <link href="http://The-W0rld.github.io/post/test/">
+        </link>
+        <updated>2021-12-07T09:10:38.000Z</updated>
+        <content type="html"><![CDATA[<p>test<br>
+sdfl asdflk jls j<br>
+slfwo oghjshskhlsjlof<br>
+sldfjlasj<br>
+lsdflsajg<br>
+djkjuifne<br>
+sdl<br>
+sdlfhjsa<br>
+skdfas<br>
+fskdjas<br>
+skjdfls<br>
+skdfa<br>
+slaf shjk<br>
+skljfl</p>
+]]></content>
+    </entry>
+</feed>
